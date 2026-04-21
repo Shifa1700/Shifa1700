@@ -14,6 +14,7 @@ I’m currently building my foundation in core programming languages and web dev
 I believe in learning by doing—and I’ll soon be adding projects here as I grow.
 
 🔧 Currently Learning
+
 💻 C & C++ – building strong programming fundamentals
 ☕ Java – understanding object-oriented programming
 🌐 Frontend Development – HTML, CSS, and starting with JavaScript
