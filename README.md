@@ -17,6 +17,7 @@ I believe in learning by doing—and I’ll soon be adding projects here as I gr
 💻 C & C++ – building strong programming fundamentals
 ☕ Java – understanding object-oriented programming
 🌐 Frontend Development – HTML, CSS, and starting with JavaScript
+
 📂 Projects
 
 🚧 No projects yet — but coming soon!
@@ -36,6 +37,7 @@ Become a confident software developer
 🌐 Connect With Me
 LinkedIn: [add your link]
 Email: shifanaz2026@gmail.com
+
 ✨ Fun Fact
 
 I’ve just started my coding journey, but I’m determined to turn it into something meaningful 🚀
